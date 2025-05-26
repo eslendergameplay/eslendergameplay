@@ -18,8 +18,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
     
-  <img height="50" src="https://i.imgur.com/fOWfF6a.jpeg
-"></code>
+  <img src="https://i.imgur.com/fOWfF6a.jpeg",height="200"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
