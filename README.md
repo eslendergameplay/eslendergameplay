@@ -1,7 +1,8 @@
+<img src="https://imgur.com/a/title-PaUB2RU">
 <div align="center">
 <h1 align="center">Hi,I'm <a>Juan Diego Serrano</a> 👋</h1>
 </div>
-<img alt="https://imgur.com/a/title-PaUB2RU">
+
 
 Here are some ideas to get you started:
 
