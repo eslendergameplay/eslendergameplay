@@ -1,4 +1,6 @@
-<img src="https://imgur.com/a/title-PaUB2RU",heigth="200">
+<p align="center">
+  <img src="(https://imgur.com/a/title-PaUB2RU)" height="200"/>
+</p>
 <div align="center">
 <h1 align="center">Hi,I'm <a>Juan Diego Serrano</a> 👋</h1>
 </div>
