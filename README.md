@@ -17,8 +17,10 @@
 - 💬 Ask me about volunteering, or just for some interesting discussion about science or programming ...
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-    
-  <img src="https://i.imgur.com/fOWfF6a.jpeg",height="200"/>
+
+  <p align="center">
+  <img src="https://i.imgur.com/fOWfF6a.jpeg" height="200"/>
+</p>  
 
 ### 🤝🏻 &nbsp;Connect with Me
 
