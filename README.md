@@ -9,8 +9,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 📲 Mobile developer
 - 😊 Callme: ***He/Him*** or ***TeamWorker*** 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-✉️ &nbsp;You can send me an email for works and coworking at eslendergameplayy@hotmail.com ! I'll try to respond as soon as I can.\
+-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+- ✉️ &nbsp;You can send me an email for works and coworking at eslendergameplayy@hotmail.com ! I'll try to respond as soon as I can.\
 - 🌱 I’m currently learning more about Mobile Development...
 - 👯 I’m looking to learn about React Native ...
 ✍️ &nbsp;In my free time, I like to watch videos about Android development.\
