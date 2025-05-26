@@ -31,7 +31,8 @@
   <img src="https://i.imgur.com/r2FmeJy.jpeg" height="80"/>
   <img src="https://i.imgur.com/Guat55O.jpeg" height="80"/>
   <img src="https://i.imgur.com/mlG4Unj.jpeg" height="80"/>
-  <img src="https://i.imgur.com/NOiLGLW.jpeg" height="80"/>   
+  <img src="https://i.imgur.com/NOiLGLW.jpeg" height="80"/>
+  <img src="https://i.imgur.com/twZs6Op.jpeg" height="80"/>    
 </p>  
 
 ### 🤝🏻 &nbsp;Connect with Me
