@@ -19,7 +19,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 
   <p align="center">
-  <img src="https://i.imgur.com/fOWfF6a.jpeg" height="200"/>
+  <img src="https://i.imgur.com/fOWfF6a.jpeg" height="100"/>
 </p>  
 
 ### 🤝🏻 &nbsp;Connect with Me
