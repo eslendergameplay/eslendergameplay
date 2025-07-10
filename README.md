@@ -35,6 +35,58 @@
   <img src="https://i.imgur.com/twZs6Op.jpeg" height="80"/>    
 </p>  
 
+## 📑 $nbsp; Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Widgets App</h3>
+<div align="center">
+<a href="https://github.com/eslendergameplay/WidgetsApp" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="An application based on widgets from Flutter"></a>
+<p>
+<a href="https://github.com/eslendergameplay/WidgetsApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</a>
+</p>
+<p>This is an introductory app for widgets on flutter</strong> - On this app you'll see the most popular widgets on flutter</strong>.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">CinemapediaApp</h3>
+<div align="center">                                       
+<a href="https://github.com/eslendergameplay/CinemapediaApp" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="CinemapediaApp"></a>
+<br>
+<p>
+<a href="https://github.com/eslendergameplay/CinemapediaApp" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>This ia a flutter app based on TheMovieDb's Api <strong>IMPRESCINDIBLES</strong> following the Clean Code Standards's principles.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">TesloShopApp</h3>
+<div align="center">
+<a href="https://github.com/eslendergameplay/TesloShopApp" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="TesloShopApp"></a>
+<p>
+<a href="https://github.com/eslendergameplay/TesloShopApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>An app based on a localhost api to be transformed on a RestfulApi Endpoint app in the future</strong> - On this App,I followed the <strong>Clean Arquitecture Standard's rules</strong>.</p>
+</div>
+                                                                                      
+</td>      
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 
