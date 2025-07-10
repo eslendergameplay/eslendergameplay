@@ -35,14 +35,14 @@
   <img src="https://i.imgur.com/twZs6Op.jpeg" height="80"/>    
 </p>  
 
-## 📑 $nbsp; Featured Projects
+## 📑 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Widgets App</h3>
 <div align="center">
-<a href="https://github.com/eslendergameplay/WidgetsApp" target="_blank"><img src="https://i.imgur.com/V0tZNN6.jpeg" width="400" alt="An application based on widgets from Flutter"></a>
+<a href="https://github.com/eslendergameplay/WidgetsApp" target="_blank"><img src="https://i.imgur.com/60vNe47.png" width="400" alt="An application based on widgets from Flutter"></a>
 <p>
 <a href="https://github.com/eslendergameplay/WidgetsApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -58,7 +58,7 @@
                <br>
 <h3 align="center">CinemapediaApp</h3>
 <div align="center">                                       
-<a href="https://github.com/eslendergameplay/CinemapediaApp" target="_blank"><img src="https://i.imgur.com/V0tZNN6.jpeg" width="400" alt="CinemapediaApp"></a>
+<a href="https://github.com/eslendergameplay/CinemapediaApp" target="_blank"><img src="https://i.imgur.com/cJk8Cp7.png" width="400" alt="CinemapediaApp"></a>
 <br>
 <p>
 <a href="https://github.com/eslendergameplay/CinemapediaApp" target="_blank">
@@ -75,7 +75,7 @@
 <td width="50%">
 <h3 align="center">TesloShopApp</h3>
 <div align="center">
-<a href="https://github.com/eslendergameplay/TesloShopApp" target="_blank"><img src="https://i.imgur.com/V0tZNN6.jpeg" width="400" alt="TesloShopApp"></a>
+<a href="https://github.com/eslendergameplay/TesloShopApp" target="_blank"><img src="https://i.imgur.com/kbWfWTu.png" width="400" alt="TesloShopApp"></a>
 <p>
 <a href="https://github.com/eslendergameplay/TesloShopApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
