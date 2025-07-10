@@ -70,7 +70,6 @@
 </table>                                                                                 
 </div>
 <br>
-
 <table>
 <tr>
 <td width="50%">
@@ -85,7 +84,10 @@
 <p>An app based on a localhost api to be transformed on a RestfulApi Endpoint app in the future</strong> - On this App,I followed the <strong>Clean Arquitecture Standard's rules</strong>.</p>
 </div>
                                                                                       
-</td>      
+</td> 
+</table>                                                                                 
+</div>
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
